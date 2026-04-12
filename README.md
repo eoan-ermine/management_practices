@@ -2,7 +2,7 @@
 
 | № | Наименование | Репозиторий | Ход выполнения |
 |---|---|---|---|
-| 1 | SWOT-анализ | [management_practices_1](https://github.com/eoan-ermine/management_practices_1) | 🔴 (посмотреть после сообщения от Ш. М. заполнение последней таблицы) |
+| 1 | SWOT-анализ | [management_practices_1](https://github.com/eoan-ermine/management_practices_1) | 🟠 |
 | 2 | Задание к лекции 4 | [management_practices_4](https://github.com/eoan-ermine/management_practices_4) | 🟠  |
 | 3 | Задачи к лекции 6 | [management_practices_6](https://github.com/eoan-ermine/management_practices_6) | 🟢 |
 | 4 | Задание к лекции 7 | [management_practices_7](https://github.com/eoan-ermine/management_practices_7) | 🟢 |
