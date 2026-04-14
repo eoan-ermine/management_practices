@@ -10,7 +10,7 @@
 | 6 | Задания к лекции 8 и 10 | [management_practices_8_10](https://github.com/eoan-ermine/management_practices_8_10) | 🟢 (сдавать последним) |
 | 7 | Задачи к лекции 9 | [management_practices_9](https://github.com/eoan-ermine/management_practices_9) | 🟢 |
 | 8 | Диаграмма Парето | --- | 🟢 |
-| 9 | Оптимизация сетевой диаграммы | --- | 🟢 |
+| 9 | Оптимизация сетевой диаграммы | [management_network_diagram](https://github.com/eoan-ermine/management_network_diagram) | 🟢 |
 | 10 | Реферат | --- | 🟢 |
 
 Где 🔴​ — не выполнено; 🟠​ — выполнено, но не сдано; 🟢​ — сдано.
